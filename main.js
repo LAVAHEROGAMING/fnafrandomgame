@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
-var fangameIndex = 24;
+var fangameIndex = 25;
 
 const gameNames = [
 	"FNAF 1",
